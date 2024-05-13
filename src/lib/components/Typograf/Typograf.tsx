@@ -1,11 +1,12 @@
 import cn from 'classnames';
-import { FC } from 'react';
+import React, { type FC } from 'react';
+import TypografFormatter from 'typograf';
+
 import styles from './Typograf.module.scss';
 import { TypografProps } from './Typograf.props';
-import TypografFormatter from 'typograf'
 
-const Typograf: FC<TypografProps> = ({}) => {
-  return <div></div>;
+const Typograf: FC<TypografProps & { children?: string }> = ({ children }) => {
+  return <>{'Content'}</>;
 };
 
 export default Typograf;
