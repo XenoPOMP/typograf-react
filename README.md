@@ -1,7 +1,8 @@
-# pkg
+Типограф | React
+======================================================================
 
-[![NPM version](https://img.shields.io/npm/v/pkg?color=a1b858&label=)](https://www.npmjs.com/package/pkg)
+<img src="./.dev/img/10176019.png" align="left" width="200">
 
-## License
+Этот проект основан на библиотеке [typograf](https://github.com/typograf/typograf), которая приносит функционал Типографа в JavaScript.
 
-[MIT](./LICENSE) License © 2023 [Riri](https://github.com/Daydreamer-riri)
+Данный же проект адаптирует ее под React.
