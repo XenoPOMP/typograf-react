@@ -2,6 +2,7 @@
   "extends": "@ririd",
   "rules": {
     "@typescript-eslint/semi": "off",
-    "@typescript-eslint/member-delimiter-style": "off"
+    "@typescript-eslint/member-delimiter-style": "off",
+    "@typescript-eslint/comma-dangle": "off"
   }
 }
