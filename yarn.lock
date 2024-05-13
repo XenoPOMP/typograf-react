@@ -3717,6 +3717,11 @@ typescript@^3.8.3:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.10.tgz#70f3910ac7a51ed6bef79da7800690b19bf778b8"
   integrity sha512-w6fIxVE/H1PkLKcCPsFqKE7Kv7QUwhU8qQY2MueZXWx5cPZdwFupLgKK3vntcK98BtNHZtAF4LA/yl2a7k8R6Q==
 
+typograf@^7.4.0:
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/typograf/-/typograf-7.4.0.tgz#dd4b7363011a29855575b50623927411ef0c800e"
+  integrity sha512-0t+kGN6RE1P0y24o98riNaC3jQo0QDsgEBB4zaNthUUykpdD7oS07lfo++/evOQcC57TlNB4QGuT83Uuost1GQ==
+
 ufo@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/ufo/-/ufo-1.1.2.tgz#d0d9e0fa09dece0c31ffd57bd363f030a35cfe76"
