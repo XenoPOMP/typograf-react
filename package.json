@@ -1,16 +1,16 @@
 {
-  "name": "pkg-name",
+  "name": "typograf-react",
   "type": "module",
   "version": "0.0.0",
   "description": "",
-  "author": "Riri <Daydreamerriri@outlook.com>",
+  "author": "XenoPOMP",
   "license": "MIT",
-  "homepage": "https://github.com/Daydreamer-riri/pkg-name#readme",
+  "homepage": "https://github.com/XenoPOMP/typograf-react#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Daydreamer-riri/pkg-name.git"
+    "url": "git+https://github.com/XenoPOMP/typograf-react.git"
   },
-  "bugs": "https://github.com/Daydreamer-riri/pkg-name/issues",
+  "bugs": "https://github.com/XenoPOMP/typograf-react/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
@@ -45,7 +45,8 @@
     "test": "testyts"
   },
   "peerDependencies": {
-    "react": ">=17"
+    "react": ">=17",
+    "typograf": ">=7"
   },
   "dependencies": {
     "react": "^18.3.1",

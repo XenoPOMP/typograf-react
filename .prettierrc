@@ -6,27 +6,14 @@
   "semi": true,
   "useTabs": false,
   "arrowParens": "avoid",
+  "singleAttributePerLine": true,
+  "plugins": ["@trivago/prettier-plugin-sort-imports"],
   "importOrder": [
-    "^@xenopomp/(.*)$",
     "<THIRD_PARTY_MODULES>",
-    "^@components/(.*)$",
-    "^@api/(.*)$",
-    "^@contexts/(.*)$",
-    "^@pages/(.*)$",
-    "^@redux/(.*)$",
-    "^@styles/(.*)$",
-    "^@providers/(.*)$",
-    "^@ui/(.*)$",
-    "^@hooks/(.*)$",
-    "^@type/(.*)$",
-    "^@utils/(.*)$",
-    "^@media/(.*)$",
-    "^@services/(.*)$",
-    "^@errors/(.*)$",
+    "^@/(.*)$",
     "^../(.*)$",
     "^./(.*)$"
   ],
   "importOrderSeparation": true,
-  "importOrderSortSpecifiers": true,
-  "importOrderParserPlugins": ["typescript", "decorators-legacy"]
+  "importOrderSortSpecifiers": true
 }
